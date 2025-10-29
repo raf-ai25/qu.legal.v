@@ -1,8 +1,10 @@
 streamlit>=1.36.0
-PyPDF2>=3.0.1
 google-genai>=0.3.0
+google-generativeai
 pandas>=2.2.2
+PyPDF2>=3.0.1
 openpyxl>=3.1.2
 datetime
 chromadb
+
 
