@@ -1,7 +1,7 @@
 import streamlit as st
 from google import genai
 from google.genai import types
-import fitz  # PyMuPDF
+import PyMuPDF
 import re
 from datetime import datetime
 import chromadb
